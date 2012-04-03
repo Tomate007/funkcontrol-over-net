@@ -1,4 +1,3 @@
-*Using the sketch*
  * [getting_started getting started]
 
  * [Contact contact]
