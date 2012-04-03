@@ -1,4 +1,4 @@
 *Using the sketch*
- * [Get started]
+ * [getting_started getting started]
 
- * [Contact Contact]
+ * [Contact contact]
