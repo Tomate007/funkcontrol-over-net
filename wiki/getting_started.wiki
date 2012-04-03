@@ -1,2 +1,13 @@
 #summary What you need for start
-getting_started
+
+
+===Components (Hardware):===
+ * 433 Mhz Receiver ([http://www.watterott.com/de/RF-Link-2400bps-Empfaenger-434MHz Link])
+ * 433 Mhz Sender ([http://www.watterott.com/de/RF-Link-Sender-434MHz Link])
+ * Arduino Ethernet - It is an Arduino Uno with WIZNET 5100 Ethernet and MicroSD([http://www.watterott.com/de/Arduino-Ethernet-w/o-PoE-module Link]) 
+ * some Jumper Wires ([http://www.watterott.com/de/Low-Cost-Jumper-Wires-fuer-Breadboards-70-Stueck Link])
+ * a case for all Components
+
+===Components (Software):===
+[http://code.google.com/p/rc-switch RCSwitch Libary]
+[http://code.google.com/p/sdfatlib/ SDFat Libary]
