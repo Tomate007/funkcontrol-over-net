@@ -1,3 +1,2 @@
- * [getting_started getting started]
-
- * [Contact contact]
+* [getting_started getting started]
+* [Contact contact]
